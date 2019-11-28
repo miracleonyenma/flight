@@ -63,6 +63,10 @@
   color: #1d202b;
 }
 
+.booking-form input[type="text"].form-control:active + .flights-cont, .booking-form input[type="text"].form-control:focus + .flights-cont {
+  display: block;
+}
+
 .booking-form input[type="date"].form-control:invalid {
   color: rgba(82, 82, 84, 0.4);
 }
@@ -97,22 +101,30 @@
   position: absolute;
   max-height: 100px;
   left: 20px;
+  z-index: 2;
+  border-radius: 8px;
+  -webkit-transform: translate(0, 10px);
+          transform: translate(0, 10px);
+  overflow-x: hidden;
+  display: none;
+}
+
+.booking-form .flights-cont:active, .booking-form .flights-cont:hover {
+  display: block;
 }
 
 .booking-form .flights {
   position: relative;
-  background: #fdfdfd;
-  z-index: 2;
-  border-radius: 8px;
   padding: 0;
-  -webkit-transform: translate(0, 10px);
-          transform: translate(0, 10px);
+  background: #fdfdfd;
+  border-radius: 8px;
 }
 
 .booking-form ul.flights li {
   list-style: none;
   padding: 1em 1.5em;
   border-bottom: 2px solid rgba(13, 13, 15, 0.12);
+  cursor: pointer;
 }
 
 .booking-form ul.flights li:hover, .booking-form ul.flights li:focus {
