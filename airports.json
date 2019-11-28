@@ -1,0 +1,1080 @@
+[
+  {
+    "airportId": "04b457a8-3b00-4a29-991a-77d7d4f63e40",
+    "code": "AES",
+    "name": "Aalesund",
+    "location": {
+      "longitude": 6.114167,
+      "latitude": 62.561111
+    },
+    "cityId": "6a234558-5742-4e72-b1f9-6b2bcd632070",
+    "city": "Aalesund",
+    "countryCode": "NO",
+    "themes": [
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "NO"
+    ]
+  },
+  {
+    "airportId": "044a9f58-9ccf-413a-b70b-55da66e8c7a7",
+    "code": "AAP",
+    "name": "Andrau Airpark Airport",
+    "location": {
+      "longitude": -95.3698028,
+      "latitude": 29.7604267
+    },
+    "cityId": "93afe02e-4a99-4a40-b117-2f19ac06ed8a",
+    "city": "Houston",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "2213e14a-b78b-4b95-b865-46a83b043266",
+    "code": "AET",
+    "name": "Allakaket",
+    "location": {
+      "longitude": -152.658333,
+      "latitude": 66.561667
+    },
+    "cityId": "f764bec3-0e58-4505-85a7-4ce46626d885",
+    "city": "Allakaket",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "2361d934-636e-48ae-bc2f-42ae4f0b470b",
+    "code": "AFI",
+    "name": "Amalfi Airport",
+    "location": {
+      "longitude": -75.073161,
+      "latitude": 6.906447999999999
+    },
+    "cityId": "5a35397d-91b8-46aa-a440-a92b801d8364",
+    "city": "Amalfi",
+    "countryCode": "CO",
+    "themes": [],
+    "pointsOfSale": [
+      "CO"
+    ]
+  },
+  {
+    "airportId": "25085a1a-d6f9-4a95-a7cf-de94e7cb98a3",
+    "code": "ABD",
+    "name": "Abadan",
+    "location": {
+      "longitude": 48.233333,
+      "latitude": 30.366667
+    },
+    "cityId": "9b8cc475-fe4c-4923-9be1-05bc6f8edb3a",
+    "city": "Abadan",
+    "countryCode": "IR",
+    "themes": [],
+    "pointsOfSale": [
+      "DE",
+      "SE",
+      "AU",
+      "IN",
+      "DK",
+      "NZ",
+      "CA",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "253c104b-26fa-4800-9185-bf4e2b5bd9d8",
+    "code": "AHN",
+    "name": "Athens",
+    "location": {
+      "longitude": -83.32694399999998,
+      "latitude": 33.948333
+    },
+    "cityId": "05687a4c-e273-4c14-9d5c-3c64e333762d",
+    "city": "Athens",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "2732a1ae-2ce3-41a0-a2a5-5e33ba2cf71d",
+    "code": "AAW",
+    "name": "Abbottabad Airport",
+    "location": {
+      "longitude": 73.2214982,
+      "latitude": 34.1687502
+    },
+    "cityId": "cb6f49eb-da6e-4eee-a2f0-06a4c83486be",
+    "city": "Abbottabad",
+    "countryCode": "PK",
+    "themes": [],
+    "pointsOfSale": [
+      "IN",
+      "CA",
+      "US"
+    ]
+  },
+  {
+    "airportId": "2cd293cd-2a0f-4e6f-990e-b7e8b8cf983e",
+    "code": "AGF",
+    "name": "Agen",
+    "location": {
+      "longitude": 0.583333,
+      "latitude": 44.166667
+    },
+    "cityId": "d25f423d-8fa4-4205-a0a8-f2243091d9b0",
+    "city": "Agen",
+    "countryCode": "FR",
+    "themes": [],
+    "pointsOfSale": [
+      "FR"
+    ]
+  },
+  {
+    "airportId": "30a5f93d-e2f2-4756-b000-74c3ef182111",
+    "code": "AMM",
+    "name": "Amman",
+    "location": {
+      "longitude": 35.993611,
+      "latitude": 31.723056
+    },
+    "cityId": "00ccec32-8a4a-45d1-924a-df8367aa88fa",
+    "city": "Amman",
+    "countryCode": "JO",
+    "themes": [
+      "HISTORIC",
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "DE",
+      "RU",
+      "IN",
+      "DK",
+      "CA",
+      "US",
+      "ES",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "32b69895-496a-432f-8fbf-7fb97295f70f",
+    "code": "AKN",
+    "name": "King Salmon",
+    "location": {
+      "longitude": -156.646944,
+      "latitude": 58.6775
+    },
+    "cityId": "000812c1-43a9-4b0e-a3ab-ed409b9e78f4",
+    "city": "King Salmon",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "356d7f74-1d00-4a62-8f83-9446d8cfb0bc",
+    "code": "AAU",
+    "name": "Asau Airport",
+    "location": {
+      "longitude": -172.6294361,
+      "latitude": -13.5191366
+    },
+    "cityId": "892f5b89-4b61-4e0d-9dd8-9f614f7f5934",
+    "city": "Asau",
+    "countryCode": "WS",
+    "themes": [],
+    "pointsOfSale": [
+      "IN"
+    ]
+  },
+  {
+    "airportId": "3eab58a6-c90d-448a-8ff3-6b7faf89548e",
+    "code": "ANB",
+    "name": "Anniston",
+    "location": {
+      "longitude": -85.858056,
+      "latitude": 33.588056
+    },
+    "cityId": "df6db95a-1b76-4216-aaf7-cb6ca6fa1600",
+    "city": "Anniston",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "4c6de78c-68ad-4bd9-9552-888783c8606a",
+    "code": "ALQ",
+    "name": "Alegrete Novo Airport",
+    "location": {
+      "longitude": -55.7954085,
+      "latitude": -29.7906476
+    },
+    "cityId": "cb556de7-8506-4a92-9e20-32802917e0f9",
+    "city": "Alegrete",
+    "countryCode": "BR",
+    "themes": [],
+    "pointsOfSale": [
+      "BR"
+    ]
+  },
+  {
+    "airportId": "5601143d-85bb-4f75-b457-62454c5bd4ee",
+    "code": "AEO",
+    "name": "Aioun El Atrouss",
+    "location": {
+      "longitude": -9.635556,
+      "latitude": 16.709167
+    },
+    "cityId": "40927a40-2a21-4ed1-bf96-9003aba6eea8",
+    "city": "Aioun el Atrouss",
+    "countryCode": "MR",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "5937744f-db04-4a02-929e-715f043c77f6",
+    "code": "AKK",
+    "name": "Akhiok",
+    "location": {
+      "longitude": -154.166667,
+      "latitude": 56.95
+    },
+    "cityId": "f8099e4e-b11f-46ae-a429-beac856aff1c",
+    "city": "Akhiok",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "5d2753f3-232d-4d77-acb7-a9eb40e0cb21",
+    "code": "AFL",
+    "name": "Alta Floresta",
+    "location": {
+      "longitude": -56.104444,
+      "latitude": -9.866111
+    },
+    "cityId": "9f3e8cee-1554-446a-89b7-2121137881f5",
+    "city": "Alta Floresta",
+    "countryCode": "BR",
+    "themes": [],
+    "pointsOfSale": [
+      "BR"
+    ]
+  },
+  {
+    "airportId": "5f32e8f8-ff93-4551-97c1-161e36b76cca",
+    "code": "AIY",
+    "name": "Bader Field",
+    "location": {
+      "longitude": -74.457222,
+      "latitude": 39.36
+    },
+    "cityId": "2def9f8c-a7b0-4451-bcb0-c431504fa4b5",
+    "city": "Atlantic City",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "5ec958e7-5b33-454f-b789-ed7202ed876b",
+    "code": "ALT",
+    "name": "Alenquer Airport",
+    "location": {
+      "longitude": -54.738823,
+      "latitude": -1.9465897
+    },
+    "cityId": "8505d958-533d-4c55-95eb-49dfab826f7b",
+    "city": "Alenquer",
+    "countryCode": "BR",
+    "themes": [],
+    "pointsOfSale": [
+      "BR"
+    ]
+  },
+  {
+    "airportId": "6328d7ef-c69d-48af-89d6-f7643e432733",
+    "code": "AIE",
+    "name": "Aiome Airport",
+    "location": {
+      "longitude": 144.725006,
+      "latitude": -5.144151
+    },
+    "cityId": "d0f08167-f856-4f21-9f05-22af46043aac",
+    "city": "Aiome",
+    "countryCode": "PG",
+    "themes": [],
+    "pointsOfSale": [
+      "IN"
+    ]
+  },
+  {
+    "airportId": "6566f509-e670-45de-97eb-b9eac8101996",
+    "code": "AIW",
+    "name": "Ai-ais Airport",
+    "location": {
+      "longitude": 17.4898699,
+      "latitude": -27.9222424
+    },
+    "cityId": "f13c00d6-ce46-4beb-9ce9-15f407ecf9ea",
+    "city": "Ais-Ais",
+    "countryCode": "NA",
+    "themes": [],
+    "pointsOfSale": [
+      "DE"
+    ]
+  },
+  {
+    "airportId": "78ebd545-c41d-411f-b704-8deef403cb24",
+    "code": "AHH",
+    "name": "Amery Municipal Airport",
+    "location": {
+      "longitude": -92.3621369,
+      "latitude": 45.3069062
+    },
+    "cityId": "ced321de-4647-430c-a266-359e5e884743",
+    "city": "Amery",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "8064ae7c-cd12-44d7-9497-8cb91315fb17",
+    "code": "AJJ",
+    "name": "Akjoujt Airport",
+    "location": {
+      "longitude": -14.3879205,
+      "latitude": 19.7461122
+    },
+    "cityId": "28e676da-dd2e-4ff1-b222-c4c49196767e",
+    "city": "Akjoujt",
+    "countryCode": "MR",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "8085c5a9-616f-417a-9093-712f14bef1ef",
+    "code": "ADB",
+    "name": "Izmir,Turkey - Menderes Apt",
+    "location": {
+      "longitude": 27.159167,
+      "latitude": 38.295833
+    },
+    "cityId": "288c54a9-0e91-41c9-9164-0840015d5b98",
+    "city": "Izmir",
+    "countryCode": "TR",
+    "themes": [
+      "HISTORIC",
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "TR"
+    ]
+  },
+  {
+    "airportId": "873cdf7b-d64c-449b-ab2e-681a63a93b3a",
+    "code": "AGP",
+    "name": "Malaga",
+    "location": {
+      "longitude": -4.499444,
+      "latitude": 36.675
+    },
+    "cityId": "54b32873-42fb-42ea-9441-f109cd67327e",
+    "city": "Malaga",
+    "countryCode": "ES",
+    "themes": [
+      "HISTORIC",
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "ES"
+    ]
+  },
+  {
+    "airportId": "89f479cc-23d5-470e-9057-d9c73d729450",
+    "code": "AMD",
+    "name": "Ahmedabad",
+    "location": {
+      "longitude": 72.62694399999998,
+      "latitude": 23.070556
+    },
+    "cityId": "64270b43-6f83-4cf8-a54a-93f0bf779c05",
+    "city": "Ahmedabad",
+    "countryCode": "IN",
+    "themes": [
+      "HISTORIC",
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "IN"
+    ]
+  },
+  {
+    "airportId": "8a3f7def-aabe-4815-8c2f-58d817ca17c7",
+    "code": "AAA",
+    "name": "Anaa",
+    "location": {
+      "longitude": -145.496111,
+      "latitude": -17.354167
+    },
+    "cityId": "d7108947-3fb3-4675-9418-cf84f0b8d297",
+    "city": "Anaa",
+    "countryCode": "PF",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "8e026917-31e9-4bbc-9701-2592d5e4a6bd",
+    "code": "ABM",
+    "name": "Bamaga,Queensland",
+    "location": {
+      "longitude": 142.46,
+      "latitude": -10.95
+    },
+    "cityId": "abc52ae2-059a-4e04-af7e-1ef7dc793803",
+    "city": "Bamaga",
+    "countryCode": "AU",
+    "themes": [],
+    "pointsOfSale": [
+      "AU"
+    ]
+  },
+  {
+    "airportId": "91328d40-30f5-435b-a8b5-05867bca23e0",
+    "code": "AEY",
+    "name": "Akureyri",
+    "location": {
+      "longitude": -18.076389,
+      "latitude": 65.655833
+    },
+    "cityId": "9ccc1bba-6c85-4d5a-a0b0-cc3204978461",
+    "city": "Akureyri",
+    "countryCode": "IS",
+    "themes": [],
+    "pointsOfSale": [
+      "NO",
+      "DK",
+      "GB",
+      "GR",
+      "IT",
+      "FR",
+      "CA"
+    ]
+  },
+  {
+    "airportId": "91d53596-6da8-4129-b6a5-ce9426191f0b",
+    "code": "ACE",
+    "name": "Arrecife, Canary Islands",
+    "location": {
+      "longitude": -13.603611,
+      "latitude": 28.944167
+    },
+    "cityId": "3dac822d-fe15-4b9e-9452-66848d17ed24",
+    "city": "Lanzarote",
+    "countryCode": "ES",
+    "themes": [
+      "BEACH"
+    ],
+    "pointsOfSale": [
+      "ES"
+    ]
+  },
+  {
+    "airportId": "a1e9775e-2ed8-474f-9801-9490bfebd73b",
+    "code": "AHS",
+    "name": "Ahuas",
+    "location": {
+      "longitude": -84.351389,
+      "latitude": 15.472778
+    },
+    "cityId": "8e074ca1-26bd-4f90-bd63-ccf814f6cd8a",
+    "city": "Ahuas",
+    "countryCode": "HN",
+    "themes": [],
+    "pointsOfSale": [
+      "PA",
+      "US",
+      "ES"
+    ]
+  },
+  {
+    "airportId": "ac2deaa1-4340-443e-860c-9722ce7ea79c",
+    "code": "ACR",
+    "name": "Araracuara Airport",
+    "location": {
+      "longitude": -72.97798,
+      "latitude": 4.1742
+    },
+    "cityId": "a288d37f-a9f9-4059-b8a1-fcc062246886",
+    "city": "Araracuara",
+    "countryCode": "CO",
+    "themes": [],
+    "pointsOfSale": [
+      "CO"
+    ]
+  },
+  {
+    "airportId": "ae227a73-fd1d-4284-941e-18a3e9031371",
+    "code": "ACV",
+    "name": "Arcata/Eureka",
+    "location": {
+      "longitude": -124.107222,
+      "latitude": 40.978056
+    },
+    "cityId": "79811d0f-39b3-4845-bc7c-9914f080aff5",
+    "city": "Arcata",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "af4cb456-588c-481d-94e3-e525885e0294",
+    "code": "ACT",
+    "name": "Waco",
+    "location": {
+      "longitude": -97.228611,
+      "latitude": 31.611111
+    },
+    "cityId": "ffc2d155-1d35-4ba0-a1e9-6639bf86fc8a",
+    "city": "Waco",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "b550669e-82d1-4d2b-a448-dbf6365a1ddc",
+    "code": "AHO",
+    "name": "Alghero/Sassari",
+    "location": {
+      "longitude": 8.288889,
+      "latitude": 40.630556
+    },
+    "cityId": "8dcfe8bc-db70-4c2f-8e2b-6da9ad60855b",
+    "city": "Alghero",
+    "countryCode": "IT",
+    "themes": [
+      "ROMANTIC"
+    ],
+    "pointsOfSale": [
+      "IT"
+    ]
+  },
+  {
+    "airportId": "c927a4ab-4ece-41f2-85b3-04e1a98494a5",
+    "code": "AGA",
+    "name": "Agadir",
+    "location": {
+      "longitude": -9.413056,
+      "latitude": 30.324722
+    },
+    "cityId": "fd53bcae-cf5f-44ad-8b60-4dbabcf891ee",
+    "city": "Agadir",
+    "countryCode": "MA",
+    "themes": [
+      "BEACH"
+    ],
+    "pointsOfSale": [
+      "DE",
+      "BE",
+      "RU",
+      "DK",
+      "GB",
+      "IT",
+      "FR",
+      "CA",
+      "US",
+      "ES",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "cc442781-1cbf-4a22-8e1b-b8d4dc01463d",
+    "code": "AKA",
+    "name": "Ankang Airport",
+    "location": {
+      "longitude": 109.029022,
+      "latitude": 32.684715
+    },
+    "cityId": "320a84ae-614d-4d91-bbae-accd9466a33c",
+    "city": "Ankang",
+    "countryCode": "CN",
+    "themes": [],
+    "pointsOfSale": [
+      "DE",
+      "RU",
+      "TW",
+      "HK",
+      "IN",
+      "DK",
+      "GR",
+      "NZ",
+      "MY",
+      "ES",
+      "PA",
+      "SE",
+      "SG",
+      "AU",
+      "TH",
+      "PH",
+      "ID",
+      "CA",
+      "US",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "d550cfff-65c9-4217-afcd-24b80c53ec7b",
+    "code": "ACP",
+    "name": "Sahand Airport",
+    "location": {
+      "longitude": 46.14972222222222,
+      "latitude": 37.35444444444445
+    },
+    "cityId": "668d1cc1-d0ba-4ebf-b782-1db90f7ebea0",
+    "city": "Sahand",
+    "countryCode": "IR",
+    "themes": [],
+    "pointsOfSale": [
+      "DE",
+      "SE",
+      "AU",
+      "IN",
+      "DK",
+      "NZ",
+      "CA",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "d63aa036-7441-4688-a566-f4a9616ef46d",
+    "code": "AEG",
+    "name": "Aek Godang Airport",
+    "location": {
+      "longitude": 99.2730146,
+      "latitude": 1.3721801
+    },
+    "cityId": "63853375-3bbb-4adc-b8bb-d1faf818c412",
+    "city": "Padang Sidempuan",
+    "countryCode": "ID",
+    "themes": [],
+    "pointsOfSale": [
+      "ID"
+    ]
+  },
+  {
+    "airportId": "d89d2dea-e998-43c2-8905-6a55b225c02c",
+    "code": "ABT",
+    "name": "Al Baha",
+    "location": {
+      "longitude": 41.633889,
+      "latitude": 20.295833
+    },
+    "cityId": "a23ab0c7-07f9-4457-9f8f-a94b4e0238ce",
+    "city": "Al Baha",
+    "countryCode": "SA",
+    "themes": [],
+    "pointsOfSale": [
+      "IN",
+      "PH",
+      "ID",
+      "GR",
+      "CA",
+      "US",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "dbb159b5-9b6a-448a-9f77-59f26f3cb678",
+    "code": "AFZ",
+    "name": "Sabzevar National Airport",
+    "location": {
+      "longitude": 57.6678228,
+      "latitude": 36.2151823
+    },
+    "cityId": "a39b3587-2920-424c-91ce-6358c930867d",
+    "city": "Sabzevar",
+    "countryCode": "IR",
+    "themes": [],
+    "pointsOfSale": [
+      "DE",
+      "SE",
+      "AU",
+      "IN",
+      "DK",
+      "NZ",
+      "CA",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "e2178608-6400-4f43-821e-88230ba13bdc",
+    "code": "AIS",
+    "name": "Arorae Island Airport",
+    "location": {
+      "longitude": 176.8245443,
+      "latitude": -2.6372119
+    },
+    "cityId": "ef8e4df8-dea9-466a-9b9b-4d8e3ebe1eb3",
+    "city": "Arorae Island",
+    "countryCode": "KI",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "e367fbaf-8abb-4a68-b6ac-a21bebf3acd0",
+    "code": "ACK",
+    "name": "Nantucket",
+    "location": {
+      "longitude": -70.060556,
+      "latitude": 41.252778
+    },
+    "cityId": "f247020b-aa78-42f9-a583-029c89cbfc79",
+    "city": "Nantucket",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "e513f08d-3916-44e8-8b98-3ae88441c239",
+    "code": "ALG",
+    "name": "Algiers",
+    "location": {
+      "longitude": 3.217778,
+      "latitude": 36.694444
+    },
+    "cityId": "e0776cb1-9a75-4ecc-bbe6-cb6652d32c43",
+    "city": "Algiers",
+    "countryCode": "DZ",
+    "themes": [
+      "HISTORIC",
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "RU",
+      "IT",
+      "CA"
+    ]
+  },
+  {
+    "airportId": "e4b2fb34-0822-4a1c-ae19-c1b785dacb41",
+    "code": "AAJ",
+    "name": "Cayana Airstrip Airport",
+    "location": {
+      "longitude": -55.179891,
+      "latitude": 5.808658599999999
+    },
+    "cityId": "86e655e0-ee58-4592-b553-dd7cf637eafc",
+    "city": "Paramaribo",
+    "countryCode": "SR",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "e6b875db-3f4e-4f0d-8e7c-3c7c2d4fdbcc",
+    "code": "AAC",
+    "name": "El Arish, Sinai",
+    "location": {
+      "longitude": 33.832222,
+      "latitude": 31.077222
+    },
+    "cityId": "e3d96449-257e-420c-851a-bc9a911822e4",
+    "city": "El Arish",
+    "countryCode": "EG",
+    "themes": [],
+    "pointsOfSale": [
+      "DE",
+      "RU",
+      "IN",
+      "DK",
+      "GR",
+      "MY",
+      "CA",
+      "US",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "e9c693f0-3d4d-4032-a81d-1e9bb5eed7bc",
+    "code": "ABG",
+    "name": "Abingdon Downs Airport",
+    "location": {
+      "longitude": 143.1670074,
+      "latitude": -17.6166992
+    },
+    "cityId": "8d833cbe-653e-40cf-969d-18f6acb2b88c",
+    "city": "Abingdon Downs",
+    "countryCode": "AU",
+    "themes": [],
+    "pointsOfSale": [
+      "AU"
+    ]
+  },
+  {
+    "airportId": "ef58e16a-07a2-4573-9cdf-a67442112d7a",
+    "code": "ADO",
+    "name": "Andamooka (Now Closed) Airport",
+    "location": {
+      "longitude": 137.1648204,
+      "latitude": -30.4536036
+    },
+    "cityId": "07d7a49f-faca-4bdb-bb0f-24ca8cb11a5e",
+    "city": "Andamooka",
+    "countryCode": "AU",
+    "themes": [],
+    "pointsOfSale": [
+      "AU"
+    ]
+  },
+  {
+    "airportId": "f6c3cd15-c2bc-430d-9053-74ea3f27a710",
+    "code": "AKD",
+    "name": "Akola Airport",
+    "location": {
+      "longitude": 77.0589907,
+      "latitude": 20.695918
+    },
+    "cityId": "7e913683-ff34-4b05-aefe-ded879fb1ad2",
+    "city": "Akola",
+    "countryCode": "IN",
+    "themes": [],
+    "pointsOfSale": [
+      "IN"
+    ]
+  },
+  {
+    "airportId": "fb4b05cd-9d3e-4f59-a673-397879c38d8e",
+    "code": "AGJ",
+    "name": "Aguni Airport",
+    "location": {
+      "longitude": 127.2383506,
+      "latitude": 26.5890557
+    },
+    "cityId": "295a8981-dc22-4bc6-95e3-2777b39fdfa1",
+    "city": "Aguni",
+    "countryCode": "JP",
+    "themes": [],
+    "pointsOfSale": [
+      "RU",
+      "TW",
+      "HK",
+      "IN",
+      "DK",
+      "KR",
+      "GR",
+      "MY",
+      "ES",
+      "SE",
+      "SG",
+      "AU",
+      "TH",
+      "PH",
+      "ID",
+      "CA",
+      "US",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "fb443547-c798-4968-88d6-d92c9d2e16ee",
+    "code": "ADA",
+    "name": "Adana",
+    "location": {
+      "longitude": 35.280833,
+      "latitude": 36.983611
+    },
+    "cityId": "49b975aa-dac1-446f-bf45-ee6cac9b98dc",
+    "city": "Adana",
+    "countryCode": "TR",
+    "themes": [
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "TR"
+    ]
+  },
+  {
+    "airportId": "02e8a6a4-5b0a-4080-9336-20c956355969",
+    "code": "AGE",
+    "name": "Wangerooge Airport",
+    "location": {
+      "longitude": 7.9025794,
+      "latitude": 53.7891725
+    },
+    "cityId": "861b735c-70c1-41d9-b31b-b93c056aebac",
+    "city": "Wangerooge",
+    "countryCode": "DE",
+    "themes": [],
+    "pointsOfSale": [
+      "DE"
+    ]
+  },
+  {
+    "airportId": "050d69d6-e76c-411b-9e63-b0c9797176b8",
+    "code": "AEX",
+    "name": "Alexandria Intl.",
+    "location": {
+      "longitude": -92.548056,
+      "latitude": 31.326944
+    },
+    "cityId": "383ed371-d029-4b13-af5e-99b2b832679b",
+    "city": "Alexandria",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "0c65a037-e142-4267-8678-6dc86557f490",
+    "code": "ADL",
+    "name": "Adelaide",
+    "location": {
+      "longitude": 138.529444,
+      "latitude": -34.946389
+    },
+    "cityId": "6d1a9478-9413-4d51-80c9-dff967cfee09",
+    "city": "Adelaide",
+    "countryCode": "AU",
+    "themes": [
+      "SHOPPING"
+    ],
+    "pointsOfSale": [
+      "AU"
+    ]
+  },
+  {
+    "airportId": "13542d11-8b60-4693-a941-ba0ed622867b",
+    "code": "ALV",
+    "name": "Andorra la Vella Airport",
+    "location": {
+      "longitude": 1.5218355,
+      "latitude": 42.50631740000001
+    },
+    "cityId": "4c4cef50-4399-4ef3-9d3f-4690d92fb6cf",
+    "city": "Andorra la Vella",
+    "countryCode": "AD",
+    "themes": [],
+    "pointsOfSale": null
+  },
+  {
+    "airportId": "1d3412da-f86c-4841-90a1-eb0b97e51d95",
+    "code": "AIL",
+    "name": "Alligandi Airport",
+    "location": {
+      "longitude": -78.0166667,
+      "latitude": 9.2333333
+    },
+    "cityId": "99593a9f-e747-46e5-8da1-19e263ae54d6",
+    "city": "Ailigandi",
+    "countryCode": "PA",
+    "themes": [],
+    "pointsOfSale": [
+      "PA"
+    ]
+  },
+  {
+    "airportId": "1ee7743a-6e75-4656-b72b-55f412c03943",
+    "code": "AMA",
+    "name": "Amarillo",
+    "location": {
+      "longitude": -101.71,
+      "latitude": 35.221111
+    },
+    "cityId": "26cd8031-1759-4b6e-adb6-7783410c8c28",
+    "city": "Amarillo",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  },
+  {
+    "airportId": "208a5b07-5467-4e14-bc0f-4b7843555b86",
+    "code": "AJY",
+    "name": "Mano Dayak International Airport",
+    "location": {
+      "longitude": 7.986535,
+      "latitude": 16.9741689
+    },
+    "cityId": "f656277d-5b40-4cf3-90b0-f70bd89a8094",
+    "city": "Agadez",
+    "countryCode": "NE",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "262b30c4-1e81-451b-9542-dec5c4203c8e",
+    "code": "ACZ",
+    "name": "Zabol Airport",
+    "location": {
+      "longitude": 61.542244,
+      "latitude": 31.087694
+    },
+    "cityId": "fb7be448-090e-4a3d-a1e7-41678a6f8165",
+    "city": "Zabol",
+    "countryCode": "IR",
+    "themes": [],
+    "pointsOfSale": [
+      "DE",
+      "SE",
+      "AU",
+      "IN",
+      "DK",
+      "NZ",
+      "CA",
+      "TR"
+    ]
+  },
+  {
+    "airportId": "25e46618-05d3-4fe1-8e1d-ffc8fc520416",
+    "code": "AGI",
+    "name": "Wageningen Airport",
+    "location": {
+      "longitude": -56.6878653,
+      "latitude": 5.767457500000001
+    },
+    "cityId": "207c3df9-17c6-4b1d-a861-5c45c7de35f9",
+    "city": "Wageningen",
+    "countryCode": "SR",
+    "themes": [],
+    "pointsOfSale": []
+  },
+  {
+    "airportId": "29badea6-2c31-483d-8899-b6cc83fd8e0a",
+    "code": "AGN",
+    "name": "Angoon",
+    "location": {
+      "longitude": -134.583333,
+      "latitude": 57.503889
+    },
+    "cityId": "21d60fc9-75f1-4d6c-b469-1042939ff146",
+    "city": "Angoon",
+    "countryCode": "US",
+    "themes": [],
+    "pointsOfSale": [
+      "US"
+    ]
+  }
+]
